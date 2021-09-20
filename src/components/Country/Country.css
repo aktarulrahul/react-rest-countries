@@ -1,0 +1,12 @@
+.country {
+  background-color: cornflowerblue;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 2px solid lightsalmon;
+}
+
+.country img {
+  height: auto;
+  width: 180px;
+}
